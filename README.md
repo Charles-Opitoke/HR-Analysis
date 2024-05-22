@@ -4,6 +4,7 @@
 
 This data analysis project aims to provide insights into the company's total number of active employees in each of its departments, and attrition in each of its departments, based on education, marital status,
 age group, and gender. Also, to know if the employees are satisfied with their jobs.
+![HR](https://github.com/Charles-Opitoke/Bank-Loan-Analysis-/assets/164562500/3ffc3f5b-7365-4642-a581-7b797a4c1748)
 
 ### Data Source
 
